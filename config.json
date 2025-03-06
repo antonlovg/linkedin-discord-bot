@@ -1,0 +1,14 @@
+{
+    "job_searches": [
+      {
+        "keywords": "devops",
+        "location": "stockholm",
+        "webhook_url": "${STOCKHOLM_WEBHOOK_URL}"
+      },
+      {
+        "keywords": "devops",
+        "location": "oslo",
+        "webhook_url": "${OSLO_WEBHOOK_URL}"
+      }
+    ]
+  }
